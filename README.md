@@ -29,7 +29,7 @@ JSON explains me like this...
   "Me" : {
     "Tasks": ["EAT", "SLEEP" , "PROGRAMMING", "GAMING"],
     "Play": ["GTA 5", "AMONG US"],
-    "Exceptions": "Exam time"
+    "Exceptions": "EXAM TIME"
   }
 }
 ```
