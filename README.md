@@ -1,8 +1,12 @@
 ### Hi there 👋
-I am Kushang Shah. A third year Information Technology UG from IIITVadodara :mortar_board: . I am a **full stack web developer** 🌐 and a learner of android ,IOS and desktop app development. Programming is my passion as well as a hobby :smiley:. Currently I am learning electron :electron: for desktop application development. 
+I am Kushang Shah. A third year Information Technology UG from IIITVadodara :mortar_board: . I am a **full stack web developer** 🌐, web game developer :video_game: and a learner of android ,IOS and desktop app development. Programming is my passion as well as a hobby :smiley:. Currently I am learning electron :electron: for desktop application development. 
 <!--
 **Kelta-King/Kelta-King** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
+## Contact me via
+[![website](https://img.shields.io/badge/Website-Keltaking-2bbc8a?style=for-the-badge&logo=firefox&color=2196F3&logoColor=white)](https://keltaking.co/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://in.linkedin.com/in/kushang-shah-85a250181)](https://https://in.linkedin.com/in/kushang-shah-85a250181)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:webdeveloperkelta@gmail.com)](mailto:webdeveloperkelta@gmail.com)
 
 ## Technologies I use
 
@@ -19,15 +23,13 @@ I am Kushang Shah. A third year Information Technology UG from IIITVadodara :mor
 ![](https://img.shields.io/badge/Tools-Github-informational?style=for-the-badge&logo=github&logoColor=white&color=black)
 ![](https://img.shields.io/badge/Database-MySQL-informational?style=for-the-badge&logo=mysql&logoColor=white&color=f29111)
 
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
+JSON explains me like this...
+```
+{
+  "Me" : {
+    "Tasks": ["EAT", "SLEEP" , "PROGRAMMING", "GAMING"],
+    "PLAY": ["GTA 5", "AMONG US"],
+    "Exceptions": "Exam time"
+  }
+}
+```
