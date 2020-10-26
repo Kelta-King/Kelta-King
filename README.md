@@ -33,3 +33,8 @@ JSON explains me like this...
   }
 }
 ```
+Some stats about my work...
+
+![](https://github.com/Kelta-King/Kelta-King/blob/master/JsStats.PNG)
+![](https://github.com/Kelta-King/Kelta-King/blob/master/phpStat.PNG)
+![](https://github.com/Kelta-King/Kelta-King/blob/master/JsStats2.PNG)
