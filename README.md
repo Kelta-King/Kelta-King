@@ -35,6 +35,6 @@ JSON explains me like this...
 ```
 Some stats about my work...
 
-![](https://github.com/Kelta-King/Kelta-King/blob/master/JsStats.PNG)
-![](https://github.com/Kelta-King/Kelta-King/blob/master/phpStat.png)
-![](https://github.com/Kelta-King/Kelta-King/blob/master/JsStats2.PNG)
+[![Js Data](https://github.com/Kelta-King/Kelta-King/blob/master/JsStats.PNG)](https://sourcerer.io/kelta-king)
+[![Php Data](https://github.com/Kelta-King/Kelta-King/blob/master/phpStat.png)](https://sourcerer.io/kelta-king)
+[![Js Data 2](https://github.com/Kelta-King/Kelta-King/blob/master/JsStats2.PNG)](https://sourcerer.io/kelta-king)
