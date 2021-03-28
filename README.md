@@ -13,6 +13,8 @@ I am Kushang Shah. A third year Information Technology UG from IIITVadodara :mor
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=for-the-badge&logo=javascript&color=yellow)
 ![](https://img.shields.io/badge/Code-php-informational?style=for-the-badge&logo=php&color=787CB5)
 ![](https://img.shields.io/badge/Code-Java-informational?style=for-the-badge&logo=java&color=red)
+![](https://img.shields.io/badge/Code-Python-informational?style=for-the-badge&logo=python&color=blue)
+![](https://img.shields.io/badge/Code-Django-informational?style=for-the-badge&logo=django&color=092e20)
 ![](https://img.shields.io/badge/Code-NodeJS-informational?style=for-the-badge&logo=node&color=3C873A)
 ![](https://img.shields.io/badge/Code-npm-informational?style=for-the-badge&logo=npm&color=CC3534)
 ![](https://img.shields.io/badge/Code-express-informational?style=for-the-badge&logo=express&color=white)
