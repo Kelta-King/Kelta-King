@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am Kushang Shah. A third year Information Technology UG from IIITVadodara :mortar_board: . I am a **full stack web developer** 🌐, web game developer :video_game: and an AI, AR enthusiastic. Programming is my passion as well as a hobby :smiley:. 
+I am Kushang Shah. A final year Information Technology UG from IIITVadodara :mortar_board: . I am a **full stack web developer** 🌐, web game developer :video_game: and an AI, AR enthusiastic. Programming is my passion as well as a hobby :smiley:. 
 <!--
 **Kelta-King/Kelta-King** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
