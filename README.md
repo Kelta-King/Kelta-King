@@ -4,8 +4,8 @@ I am Kushang Shah. A final year Information Technology UG from IIITVadodara :mor
 **Kelta-King/Kelta-King** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 ## Contact me via
-[![website](https://img.shields.io/badge/-Website-2bbc8a?style=for-the-badge&logo=firefox&color=2196F3&logoColor=white)](http://keltaking.tk/)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://in.linkedin.com/in/kushang-shah-85a250181)](https://in.linkedin.com/in/kushang-shah-85a250181)
+[![Medium Badge](https://img.shields.io/badge/-medium-black?style=for-the-badge&logo=medium&logoColor=white&link=https://in.linkedin.com/in/kushang-shah-85a250181)](https://medium.com/@keltaedutech99)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:webdeveloperkelta@gmail.com)](mailto:webdeveloperkelta@gmail.com)
 
 ## Technologies I use
