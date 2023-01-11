@@ -32,7 +32,7 @@ JSON explains me like this...
   "Me" : {
     "Tasks": ["Eat", "Sleep" , "Programming", "Gaming"],
     "Gaming": ["GTA 5", "Among Us"],
-    "Exceptions": "Exam Time"
+    "Exceptions": "Just like application defects"
   }
 }
 ```
