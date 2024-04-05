@@ -145,6 +145,8 @@ export default function Header(props) {
                     flexShrink: 0,
                     '& .MuiDrawer-paper': {
                         width: drawerWidth,
+                        backgroundColor: props.currentTheme.palette.secondary.background,
+                        color: props.currentTheme.palette.secondary.color
                     },
                 }}
                 variant="persistent"
@@ -153,23 +155,39 @@ export default function Header(props) {
             >
                 <DrawerHeader>
                     <IconButton onClick={handleDrawerClose}>
-                        {theme.direction === 'rtl' ? <ChevronLeftIcon /> : <ChevronRightIcon />}
+                        <ChevronRightIcon
+                            sx={{
+                                color: props.currentTheme.palette.secondary.color
+                            }}
+                        />
                     </IconButton>
                 </DrawerHeader>
-                <Divider />
+                <Divider
+                    sx={{
+                        bgcolor: props.currentTheme.palette.secondary.color
+                    }}
+                />
                 <List>
                     {['Home', 'About Me', 'Projects', 'Contact Me'].map((text, index) => (
                         <ListItem key={text} disablePadding>
                             <ListItemButton>
                                 <ListItemIcon>
-                                    {index % 2 === 0 ? <InboxIcon /> : <MailIcon />}
+                                    <MailIcon
+                                        sx={{
+                                            color: props.currentTheme.palette.secondary.color
+                                        }}
+                                    />
                                 </ListItemIcon>
                                 <ListItemText primary={text} />
                             </ListItemButton>
                         </ListItem>
                     ))}
                 </List>
-                <Divider />
+                <Divider
+                    sx={{
+                        bgcolor: props.currentTheme.palette.secondary.color
+                    }}
+                />
                 <Box style={{ paddingLeft: "12px", textAlign: "left" }}>
                     <FormControlLabel
                         value="end"
