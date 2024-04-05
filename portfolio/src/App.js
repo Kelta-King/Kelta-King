@@ -4,6 +4,7 @@ import { useEffect, useState } from 'react';
 import lightTheme from './ColorTheme/lightTheme';
 import darkTheme from './ColorTheme/darkTheme';
 import Header from './Common/Header';
+import ThemeBulb from './Common/ThemeBulb';
 
 function App() {
 	const [colorTheme, setcolorTheme] = useState("Dark");
@@ -31,6 +32,7 @@ function App() {
 				colorTheme={colorTheme}
 				switchColorTheme={switchColorTheme}
 			/>
+			<ThemeBulb />
 		</div>
 	);
 }
