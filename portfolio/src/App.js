@@ -1,46 +1,36 @@
 import { ThemeProvider } from '@mui/material/styles';
 import './App.css';
-import themeDark from './themeDark';
-import themeLight from './themeLight';
-import { Box, Button } from '@mui/material';
-import { useState } from 'react';
-import FormControlLabel from '@mui/material/FormControlLabel';
-import Switch from '@mui/material/Switch';
+import { useEffect, useState } from 'react';
+import lightTheme from './ColorTheme/lightTheme';
+import darkTheme from './ColorTheme/darkTheme';
+import Header from './Common/Header';
 
 function App() {
-	const [theme, setTheme] = useState("Light");
+	const [colorTheme, setcolorTheme] = useState("Dark");
 
-	const handleThemeChange = (event) => {
+	const switchColorTheme = (event) => {
+		console.log("Yo");
 		if (event.target.checked) {
-			setTheme("Dark");
+			setcolorTheme("Light");
 		}
 		else {
-			setTheme("Light");
+			setcolorTheme("Dark");
 		}
 	}
+	var theme = colorTheme == "Dark" ? darkTheme : lightTheme;
 
 	return (
-		<div className="App">
-			<FormControlLabel
-				control={<Switch />}
-				label={theme}
-				onChange={handleThemeChange}
+		<div
+			className="App"
+			style={{
+				backgroundColor: theme.palette.background,
+				color: theme.palette.color
+			}}>
+			<Header
+				currentTheme={theme}
+				colorTheme={colorTheme}
+				switchColorTheme={switchColorTheme}
 			/>
-			{theme == "Light" ? (
-				<ThemeProvider theme={themeLight}>
-					<Box style={{ width: "50%", backgroundColor: "black" }}>
-						<Button variant='contained'>Clieck</Button>
-					</Box>
-				</ThemeProvider>
-			) : (
-				<ThemeProvider theme={themeDark}>
-					<Box style={{ width: "50%", backgroundColor: "black" }}>
-						<Button variant='contained'>Clieck</Button>
-					</Box>
-				</ThemeProvider>
-			)}
-
-
 		</div>
 	);
 }
