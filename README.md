@@ -10,7 +10,7 @@ Beyond work, I enjoy playing cricket, painting, and participating in social welf
 ## Contact me via
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://in.linkedin.com/in/kushang-shah-85a250181)](https://in.linkedin.com/in/kushang-shah-85a250181)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:webdeveloperkelta@gmail.com)](mailto:webdeveloperkelta@gmail.com)
-![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06&link=https://leetcode.com/KushangShah/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06&link=https://leetcode.com/KushangShah/)](https://leetcode.com/KushangShah/)
 
 ## Programming languages I worked on
 
