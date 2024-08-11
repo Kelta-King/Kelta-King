@@ -12,7 +12,7 @@ Beyond work, I enjoy playing cricket, painting, and participating in social welf
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:webdeveloperkelta@gmail.com)](mailto:webdeveloperkelta@gmail.com)
 [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06&link=https://leetcode.com/KushangShah/)](https://leetcode.com/KushangShah/)
 
-## Programming languages I worked on
+## Programming languages I work with
 
 ![](https://img.shields.io/badge/Code-NodeJS-informational?style=for-the-badge&logo=node.js&color=3C873A)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=for-the-badge&logo=javascript&color=yellow)
@@ -24,7 +24,7 @@ Beyond work, I enjoy playing cricket, painting, and participating in social welf
 ![](https://img.shields.io/badge/Code-Python-informational?style=for-the-badge&logo=python&color=FFD43B)
 ![](https://img.shields.io/badge/Code-Django-informational?style=for-the-badge&logo=django&color=092e20)
 
-## Development tools I worked on
+## Development tools I work with
 ![](https://img.shields.io/badge/Tools-Git-informational?style=for-the-badge&logo=git&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Github-informational?style=for-the-badge&logo=github&logoColor=white&color=black)
 ![](https://img.shields.io/badge/Tools-PERFORCE-informational?style=for-the-badge&logo=PERFORCE&logoColor=white&color=00AEEF)
@@ -32,11 +32,11 @@ Beyond work, I enjoy playing cricket, painting, and participating in social welf
 ![](https://img.shields.io/badge/Testing-jest-informational?style=for-the-badge&logo=jest&logoColor=white&color=%23C21325)
 ![](https://img.shields.io/badge/Package-NPM-informational?style=for-the-badge&logo=NPM&logoColor=white&color=%23CB3837)
 
-## Databases I worked on
+## Databases I work with
 ![](https://img.shields.io/badge/Database-MySQL-informational?style=for-the-badge&logo=mysql&logoColor=white&color=f29111)
 ![](https://img.shields.io/badge/Database-postgres-informational?style=for-the-badge&logo=postgresql&logoColor=white&color=%23316192)
 
-## Hosting/SAAS platforms used
+## Hosting/SAAS platforms I use
 ![](https://img.shields.io/badge/Hosting-github%20pages-informational?style=for-the-badge&logo=github&logoColor=white&color=121013)
 ![](https://img.shields.io/badge/Hosting-heroku-informational?style=for-the-badge&logo=heroku&logoColor=white&color=%23430098)
 ![](https://img.shields.io/badge/Hosting-Render-informational?style=for-the-badge&logo=Render&logoColor=white&color=%46E3B7)
