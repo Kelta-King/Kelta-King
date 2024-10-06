@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm a software engineer specializing in website and Android app development, along with maintaining and enhancing operating services. I am skilled in Node.js, PHP, Python, Express.js, and React.js. I create seamless web experiences. As a full-stack developer, I work on both frontend and backend aspects, ensuring smooth functionality.
+I'm a software engineer specializing in website and Android app development, along with maintaining and enhancing operating services. I am skilled in Java, Node.js, PHP, SpringBoot, Express.js, and React.js. I create seamless web experiences. As a full-stack developer, I work on both frontend and backend aspects, ensuring smooth functionality.
 
 In Android app development, I use React Native to craft engaging mobile experiences. My expertise also extends to operating systems, where I excel in C++. With 6 years of programming language experience and 2 years of professional work, I've built various applications, including chat apps, patient management systems, and blogging platforms. Notably, I developed an online exam system accommodating 1300 simultaneous students.
 
@@ -15,13 +15,14 @@ Beyond work, I enjoy playing cricket, painting, and participating in social welf
 ## Programming languages I work with
 
 ![](https://img.shields.io/badge/Code-NodeJS-informational?style=for-the-badge&logo=node.js&color=3C873A)
+![](https://img.shields.io/badge/Code-Java-informational?style=for-the-badge&logo=openjdk&color=red)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=for-the-badge&logo=javascript&color=yellow)
 ![](https://img.shields.io/badge/Code-express-informational?style=for-the-badge&logo=express&color=white)
 ![](https://img.shields.io/badge/Code-c++-informational?style=for-the-badge&logo=c%2B%2B&color=%2300599C)
 ![](https://img.shields.io/badge/Code-php-informational?style=for-the-badge&logo=php&color=787CB5)
 ![](https://img.shields.io/badge/Code-ReactJS-informational?style=for-the-badge&logo=react&color=61dbfb)
 ![](https://img.shields.io/badge/Code-react_native-informational?style=for-the-badge&logo=react&color=%2320232a)
-![](https://img.shields.io/badge/Code-Python-informational?style=for-the-badge&logo=python&color=FFD43B)
+![](https://img.shields.io/badge/Code-SpringBoot-informational?style=for-the-badge&logo=spring&color=6DB33F)
 ![](https://img.shields.io/badge/Code-Django-informational?style=for-the-badge&logo=django&color=092e20)
 
 ## Development tools I work with
