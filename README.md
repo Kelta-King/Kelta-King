@@ -8,6 +8,7 @@ Beyond work, I enjoy playing cricket, painting, and participating in social welf
 **Kelta-King/Kelta-King** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 ## Contact me via
+[![Portfolio](https://img.shields.io/badge/Kushang_Shah-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://kelta-king.github.io/)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://in.linkedin.com/in/kushang-shah-85a250181)](https://in.linkedin.com/in/kushang-shah-85a250181)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:webdeveloperkelta@gmail.com)](mailto:webdeveloperkelta@gmail.com)
 [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06&link=https://leetcode.com/KushangShah/)](https://leetcode.com/KushangShah/)
