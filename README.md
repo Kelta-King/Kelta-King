@@ -42,3 +42,7 @@ Beyond work, I enjoy playing cricket, painting, and participating in social welf
 ![](https://img.shields.io/badge/Hosting-github%20pages-informational?style=for-the-badge&logo=github&logoColor=white&color=121013)
 ![](https://img.shields.io/badge/Hosting-heroku-informational?style=for-the-badge&logo=heroku&logoColor=white&color=%23430098)
 ![](https://img.shields.io/badge/Hosting-Render-informational?style=for-the-badge&logo=Render&logoColor=white&color=%46E3B7)
+
+## 📊 GitHub Stats
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kelta-King&layout=compact&theme=radical)
