@@ -1,7 +1,10 @@
 ### Hi there 👋
-I'm a software engineer specializing in website and Android app development, along with maintaining and enhancing operating services. I am skilled in Java, Node.js, PHP, SpringBoot, Express.js, and React.js. I create seamless web experiences. As a full-stack developer, I work on both frontend and backend aspects, ensuring smooth functionality.
+I'm a software engineer specializing in Website and Android app development, along with maintaining and enhancing operating services. I am skilled in Java, Spring, SpringBoot, Node.js, Express.js, PHP and React.js. I create seamless web experiences. As a full-stack developer, I work on both frontend and backend aspects, ensuring smooth functionality.
 
-In Android app development, I use React Native to craft engaging mobile experiences. My expertise also extends to operating systems, where I excel in C++. With 6 years of programming experience and 2 years of professional work, I've built various applications, including chat apps, patient management systems, and blogging platforms. Notably, I developed an online exam system accommodating 1300 simultaneous students.
+- In Website development, I use Spring or Node.js as a backend technology and Vanilla.js or React.js for the frontend. For the database I'm skilled in PostgreSQL. 
+- In Android app development, I use Kotlin and React Native to craft engaging mobile experiences. My expertise also extends to operating systems, where I excel in C++.
+
+With 7 years of programming experience and 3 years of professional work, I've built various applications, including chat apps, patient management systems, and blogging platforms. Notably, I developed an online exam system accommodating 1300 simultaneous students.
 
 Beyond work, I enjoy playing cricket, painting, and participating in social welfare programs like cleaning gardens and teaching underprivileged children. Let's connect and explore the world of technology together! :smiley:. 
 <!--
