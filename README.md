@@ -17,16 +17,15 @@ Beyond work, I enjoy playing cricket, painting, and participating in social welf
 [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06&link=https://leetcode.com/KushangShah/)](https://leetcode.com/KushangShah/)
 
 ## Programming languages I work with
-
-![](https://img.shields.io/badge/Code-NodeJS-informational?style=for-the-badge&logo=node.js&color=3C873A)
 ![](https://img.shields.io/badge/Code-Java-informational?style=for-the-badge&logo=openjdk&color=red)
+![](https://img.shields.io/badge/Code-SpringBoot-informational?style=for-the-badge&logo=spring&color=6DB33F)
+![](https://img.shields.io/badge/Code-c++-informational?style=for-the-badge&logo=c%2B%2B&color=%2300599C)
+![](https://img.shields.io/badge/Code-NodeJS-informational?style=for-the-badge&logo=node.js&color=3C873A)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=for-the-badge&logo=javascript&color=yellow)
 ![](https://img.shields.io/badge/Code-express-informational?style=for-the-badge&logo=express&color=white)
-![](https://img.shields.io/badge/Code-c++-informational?style=for-the-badge&logo=c%2B%2B&color=%2300599C)
 ![](https://img.shields.io/badge/Code-php-informational?style=for-the-badge&logo=php&color=787CB5)
 ![](https://img.shields.io/badge/Code-ReactJS-informational?style=for-the-badge&logo=react&color=61dbfb)
 ![](https://img.shields.io/badge/Code-react_native-informational?style=for-the-badge&logo=react&color=%2320232a)
-![](https://img.shields.io/badge/Code-SpringBoot-informational?style=for-the-badge&logo=spring&color=6DB33F)
 ![](https://img.shields.io/badge/Code-Django-informational?style=for-the-badge&logo=django&color=092e20)
 
 ## Development tools I work with
