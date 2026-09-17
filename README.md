@@ -1,12 +1,24 @@
 ### Hi there 👋
-I'm a software engineer specializing in Website and Android app development, along with maintaining and enhancing operating services. I am skilled in Java, Spring, SpringBoot, Node.js, Express.js, PHP and React.js. I create seamless web experiences. As a full-stack developer, I work on both frontend and backend aspects, ensuring smooth functionality.
+I'm a Software Engineer specializing in AI-powered products, backend engineering, and distributed systems, with 4+ years of professional experience building scalable applications and services.
 
-- In Website development, I use Spring or Node.js as a backend technology and Vanilla.js or React.js for the frontend. For the database I'm skilled in PostgreSQL. 
-- In Android app development, I use Kotlin and React Native to craft engaging mobile experiences. My expertise also extends to operating systems, where I excel in C++.
+My core expertise is in Java, Go, Spring Boot, microservices, cloud platforms, and Generative AI. I enjoy taking ideas from architecture and system design through implementation, deployment, and production with a strong focus on scalability, reliability, and measurable business impact.
 
-With 7 years of programming experience and 3 years of professional work, I've built various applications, including chat apps, patient management systems, and blogging platforms. Notably, I developed an online exam system accommodating 1300 simultaneous students.
+- **Java Backend:** Strong experience with Java, Spring, Spring Boot, REST APIs, microservices, concurrency, database systems, and production-grade backend development.
+- **Go:** Building backend services and exploring Go for high-performance, concurrent, and scalable systems.
+- **AI & Generative AI:** Building AI-powered features and services using LLMs, Gemini, Llama, Claude, and AI-assisted development workflows. Experienced in integrating AI into real-world products rather than treating it as a standalone capability.
+- **Cloud & Infrastructure:** Experience with AWS, Google Cloud Platform, Docker, Kubernetes, CI/CD, Jenkins, ArgoCD, and Datadog.
+- **System Design:** Interested in designing distributed systems, event-driven architectures, scalable APIs, messaging systems, and reliable backend infrastructure.
+- **Engineering:** Strong focus on code reviews, debugging legacy systems, production ownership, performance optimization, cross-team collaboration, and engineering best practices.
 
-Beyond work, I enjoy playing cricket, painting, and participating in social welfare programs like cleaning gardens and teaching underprivileged children. Let's connect and explore the world of technology together! :smiley:. 
+With 8 years of programming experience and 4.5 years of professional work, I've built various applications, including AI-powered experiences on Samsung Interactive Whiteboards and large-scale gaming systems at Skillz. My work has contributed to measurable outcomes including 15% revenue growth, 11% reduction in customer acquisition cost, and 90% infrastructure bandwidth savings. 
+Notably during my college days, I developed an online exam system accommodating 1300 simultaneous students.
+
+I enjoy solving complex engineering problems, learning new technologies, and using AI to make software development faster and more effective.
+
+🚀 AI • Backend • Java • Go • Distributed Systems • Cloud
+
+Beyond work, I enjoy playing tennis, biking, and running :smiley:. 
+Always happy to connect with fellow engineers, builders, and people working at the intersection of software engineering and AI.
 <!--
 **Kelta-King/Kelta-King** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
