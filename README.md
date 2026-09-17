@@ -13,11 +13,12 @@ Beyond work, I enjoy playing cricket, painting, and participating in social welf
 ## Contact me via
 [![Portfolio](https://img.shields.io/badge/Kushang_Shah-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://kelta-king.github.io/)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://in.linkedin.com/in/kushang-shah-85a250181)](https://in.linkedin.com/in/kushang-shah-85a250181)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:webdeveloperkelta@gmail.com)](mailto:webdeveloperkelta@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:kushangshah9009@gmail.com)](mailto:kushangshah9009@gmail.com)
 [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06&link=https://leetcode.com/KushangShah/)](https://leetcode.com/KushangShah/)
 
 ## Programming languages I work with
 ![](https://img.shields.io/badge/Code-Java-informational?style=for-the-badge&logo=openjdk&color=red)
+![](https://img.shields.io/badge/Code-Go-informational?style=for-the-badge&logo=go&color=blue)
 ![](https://img.shields.io/badge/Code-SpringBoot-informational?style=for-the-badge&logo=spring&color=6DB33F)
 ![](https://img.shields.io/badge/Code-c++-informational?style=for-the-badge&logo=c%2B%2B&color=%2300599C)
 ![](https://img.shields.io/badge/Code-NodeJS-informational?style=for-the-badge&logo=node.js&color=3C873A)
@@ -38,7 +39,9 @@ Beyond work, I enjoy playing cricket, painting, and participating in social welf
 
 ## Databases I work with
 ![](https://img.shields.io/badge/Database-MySQL-informational?style=for-the-badge&logo=mysql&logoColor=white&color=f29111)
+![](https://img.shields.io/badge/Database-dynamodb-informational?style=for-the-badge&logo=dynamodb&logoColor=white&color=4053D6)
 ![](https://img.shields.io/badge/Database-postgres-informational?style=for-the-badge&logo=postgresql&logoColor=white&color=%23316192)
+![](https://img.shields.io/badge/Database-mongodb-informational?style=for-the-badge&logo=mongodb&logoColor=white&color=47A248)
 
 ## Hosting/SAAS platforms I use
 ![](https://img.shields.io/badge/Hosting-github%20pages-informational?style=for-the-badge&logo=github&logoColor=white&color=121013)
